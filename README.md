@@ -1,4 +1,7 @@
-
+git clone https://github.com/arihantslitttlecave/Spotify-to-Youtube.git
+cd Spotify-to-Youtube
+pip install -r requirements.txt
+py yt_music_transfer.py
 
 I recently made the full switch from **Spotify to YouTube Music**, and it wasn’t just random. I’d had enough of Spotify’s policies, shady internal decisions (yes, even the AI weaponry stuff 👀), and the way it’s been moving away from being for listeners.
 
