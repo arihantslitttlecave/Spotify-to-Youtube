@@ -2,7 +2,7 @@
 
 I recently made the full switch from **Spotify to YouTube Music**, and it wasn’t just random. I’d had enough of Spotify’s policies, shady internal decisions (yes, even the AI weaponry stuff 👀), and the way it’s been moving away from being for listeners.
 
-Figuring out how to move my whole library wasn’t easy, but after some trial and error I finally managed to transfer everything, playlists, songs, the lot.
+Figuring out how to move my whole library wasn’t easy, but after some trial and error I finally managed to transfer everything, playlists, songs, the lot ( and thanks to the reddit posts that helped me out ).
 
 Now, YouTube Music isn’t perfect (no platform is), but compared to Spotify it feels so much better: more flexible, bigger library, smoother integration. It’s not spotless, but it’s 100x better in my eyes. If you’re tired of Spotify’s nonsense, you might want to consider it too.
 So here goes the whole process
