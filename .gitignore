@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment
+venv/
+.env/
+
+# API keys and tokens
+token.pickle
+client_secret.json
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
