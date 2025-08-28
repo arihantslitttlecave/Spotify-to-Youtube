@@ -296,6 +296,6 @@ To stay safe:
 This ensures your account and music library remain private and secure.
 
 
-That's all
+That's all.
 Remember to drink water guys :)
 
